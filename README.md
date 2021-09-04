@@ -1,2 +1,2 @@
-Technical University of Cluj Napoca Student \n
+Technical University of Cluj Napoca Student
 Likes Chess / AI / Machine Learning / Esports
