@@ -2,7 +2,7 @@
 
 - 🔭 Technical University of Cluj Napoca 2018-2022 Student
 - 🌱 Hungry for wisdom
-- 📫 How to reach me **trufin.radu@yahoo.com**
+- 📫 Contact me on **trufin.radu@yahoo.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
